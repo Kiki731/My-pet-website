@@ -1,0 +1,36 @@
+body{background-color: white;}
+p{color:grey;
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+h1{color: green;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: green;text-decoration:underline;
+  font-style: italic;
+  text-shadow:black;
+  text-align: center;
+}
+h2{color: purple;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+text-decoration: underline;}
+li{color:purple;
+}
+img{margin-top: 10px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: 420px;
+  width: 500px;
+  height: 250px;
+
+}
+h3{color: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-decoration: underline;
+
+}
+

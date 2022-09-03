@@ -1,0 +1,25 @@
+body{background-color: white;}
+h1{color: green;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: green;text-decoration:underline;
+  font-style: italic;
+  text-shadow:black;
+  text-align: center;
+}
+p{color:grey;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-decoration: underline;
+  font-size: 20px;
+  
+}
+img{ width: 450px;
+  height: 250px;
+  margin-top: 10px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: 420px;
+
+}
